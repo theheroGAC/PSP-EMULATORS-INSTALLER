@@ -2,13 +2,13 @@
 Auto installs 20 emulators on adrenaline in 3 minutes
 Emulators:
 - COELM PSP = Colecovision
-- CPS1 = 
+- CPS1 = Capcom
 - DaedalusX64 = Nintendo 64 (N64)
-- Emuodd
+- Emuodd =
 - Fuse = ZX Spectrum 48K
-- LYNX
+- LYNX = Atari Lynx
 - Masterboy = Sega Master System
-- MVS
+- MVS = Neo Geo
 - Picodrive = Megadrive/Genesis
 - PSP7800 = Atari 7800
 - PSPATARI = Atari 800,800XL,130XE
