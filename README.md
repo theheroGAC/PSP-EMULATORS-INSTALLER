@@ -1,6 +1,6 @@
 # PSP-EMULATORS-INSTALLER
 Auto installs 20 emulators on adrenaline in 3 minutes
-Emulators:
+# Emulators:
 - COELM PSP = Colecovision
 - CPS1 = Capcom
 - DaedalusX64 = Nintendo 64 (N64)
