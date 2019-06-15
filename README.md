@@ -4,7 +4,7 @@ Emulators:
 - COELM PSP = Colecovision
 - CPS1 = Capcom
 - DaedalusX64 = Nintendo 64 (N64)
-- Emuodd =
+- Emuodd = Magnavox Odyssey
 - Fuse = ZX Spectrum 48K
 - LYNX = Atari Lynx
 - Masterboy = Sega Master System
